@@ -1,0 +1,766 @@
+{
+  "dataBrands": [
+    "Adidas",
+    "Vans",
+    "Converse",
+    "MLB",
+    "New Balance"
+  ],
+  "dataSlides" :
+  [
+    {
+      "id":"pr1",
+      "img": "../../../imgs/brand/adidas/nmdr1/black/1.jpeg",
+      "title": "ADIDAS ULTRABOOST 6.0",
+      "price": 1000000
+    },
+    {
+      "id":"pr2",
+      "img": "../../../imgs/brand/adidas/stansmith/black/1.jpeg",
+      "title": "ADIDAS STANSMITH",
+      "price": 1200000
+    },
+    {
+      "id":"pr3",
+      "img": "../../../imgs/brand/adidas/Kaptir_djen/1.jpg",
+      "title": "ADIDAS KAPTIR DJEN",
+      "price": 1500000
+    },
+    {
+      "id":"pr4",
+      "img": "../../../imgs/brand/adidas/superstar/black/1.jpeg",
+      "title": "ADIDAS SUPERSTAR",
+      "price": 1500000
+    },
+    {
+      "id":"pr5",
+      "img": "../../../imgs/brand/adidas/ub/white/1.jpeg",
+      "title": "ADIDAS ULTRABOOT 4.0",
+      "price": 1500000
+    }
+  ],
+
+  "dataProducts" :
+  [
+    {
+      "id":"pr1",
+      "classify":"adidas",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/adidas/nmdr1/black/1.jpeg",
+          "img2":  "../../../imgs/brand/adidas/nmdr1/black/2.jpeg",
+          "img3":  "../../../imgs/brand/adidas/nmdr1/black/3.jpeg",
+          "img4":  "../../../imgs/brand/adidas/nmdr1/black/4.jpeg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/adidas/nmdr1/gray/1.jpeg",
+          "img2": "../../imgs/adidas/nmdr1/gray/1.jpeg",
+          "img3": "../../imgs/adidas/nmdr1/gray/1.jpeg",
+          "img4": "../../imgs/adidas/nmdr1/gray/1.jpeg"
+        }
+      },
+      "title": "ADIDAS ULTRABOOST 6.0 ",
+      "color": ["Black", "Gray"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 2000000,
+      "gender": "male",
+      "decribe": "Hàng loạt bản mẫu. Hàng loạt cải tiến. Hàng loạt thử nghiệm. Đồng hành cùng chúng tôi trên hành trình tìm kiếm sự hòa hợp đỉnh cao giữa trọng lượng, sự êm ái và độ đàn hồi. Ultraboost 21. Đón chào nguồn năng lượng hoàn trả phi thường."
+    },
+    {
+      "id":"pr2",
+      "gender": "male",
+      "classify":"adidas",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/adidas/stansmith/black/1.jpeg",
+          "img2": "../../../imgs/brand/adidas/stansmith/black/2.jpeg",
+          "img3": "../../../imgs/brand/adidas/stansmith/black/3.jpeg",
+          "img4": "../../../imgs/brand/adidas/stansmith/black/4.jpeg"
+        },
+        "color2": {
+          "img1": "../../../imgs/adidas/stansmith/green/1.jpeg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "ADIDAS STANSMITH",
+      "color": ["Black", "Green"],
+      "size": [38 , 41, 42],
+      "price": 1100000,
+      "decribe": "Hàng loạt bản mẫu. Hàng loạt cải tiến. Hàng loạt thử nghiệm. Đồng hành cùng chúng tôi trên hành trình tìm kiếm sự hòa hợp đỉnh cao giữa trọng lượng, sự êm ái và độ đàn hồi. Ultraboost 21. Đón chào nguồn năng lượng hoàn trả phi thường."
+    },
+    {
+      "id":"pr3",
+      "gender": "male",
+      "classify":"adidas",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/adidas/Kaptir_djen/1.jpg",
+          "img2": "../../../imgs/brand/adidas/Kaptir_djen/2.jpg",
+          "img3": "../../../imgs/brand/adidas/Kaptir_djen/3.jpg",
+          "img4": "../../../imgs/brand/adidas/Kaptir_djen/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/adidas/stansmith/green/1.jpeg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "ADIDAS KAPTIR DJEN",
+      "color": ["Black", "Green"],
+      "size": [ 40 , 41, 42],
+      "price": 3200000,
+      "decribe": "Khái niệm \"tốt nhất\" không ngừng thay đổi. Khi chúng tôi cho ra mắt đôi giày adidas Ultraboost đầu tiên, đó là mẫu giày chạy bộ tốt nhất chúng tôi từng thiết kế. Với mỗi phiên bản cập nhật mới, chúng tôi lại tiếp tục nâng tầm cuộc chơi. "
+    },
+    {
+      "id":"pr4",
+      "gender": "male",
+      "classify":"adidas",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/adidas/superstar/black/1.jpeg",
+          "img2": "../../../imgs/brand/adidas/superstar/black/2.jpeg",
+          "img3": "../../../imgs/brand/adidas/superstar/black/3.jpeg",
+          "img4": "../../../imgs/brand/adidas/superstar/black/4.jpeg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/adidas/superstar/white/1.jpeg",
+          "img2": "../../../imgs/brand/adidas/superstar/white/2.jpeg",
+          "img3": "../../../imgs/brand/adidas/superstar/white/3.jpeg",
+          "img4": "../../../imgs/brand/adidas/superstar/white/4.jpeg"
+        }
+      },
+      "title": "ADIDAS SUPERSTAR",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 4100000,
+      "decribe": "Bạn đã chán tập gym và muốn thử chạy bộ? Đôi giày adidas này là lựa chọn hoàn hảo cho những người mới bắt đầu và muốn có được bệ phóng phù hợp. Thân giày bằng vải dệt siêu thoáng khí. Đế ngoài bằng cao su siêu bám trên các bề mặt ẩm ướt. Kết cấu siêu nhẹ giúp đôi chân bạn dễ dàng chuyển động."
+    },
+    {
+      "id":"pr5",
+      "gender": "male",
+      "classify":"adidas",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/adidas/ub/white/1.jpeg",
+          "img2": "../../../imgs/brand/adidas/ub/white/2.jpeg",
+          "img3": "../../../imgs/brand/adidas/ub/white/3.jpeg",
+          "img4": "../../../imgs/brand/adidas/ub/white/4.jpeg"
+        },
+        "color2": {
+          "img1": "../../../imgs/adidas/stansmith/green/1.jpeg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "ADIDAS ULTRABOOT 4.0",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 3200000,
+      "decribe": "Khái niệm \"tốt nhất\" không ngừng thay đổi. Khi chúng tôi cho ra mắt đôi giày adidas Ultraboost đầu tiên, đó là mẫu giày chạy bộ tốt nhất chúng tôi từng thiết kế. Với mỗi phiên bản cập nhật mới, chúng tôi lại tiếp tục nâng tầm cuộc chơi. "
+    },
+    {
+      "id":"pr6",
+      "gender": "male",
+      "classify":"adidas",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/adidas/Utraboost21/1.jpg",
+          "img2": "../../../imgs/brand/adidas/Utraboost21/2.jpg",
+          "img3": "../../../imgs/brand/adidas/Utraboost21/3.jpg",
+          "img4": "../../../imgs/brand/adidas/Utraboost21/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/adidas/stansmith/green/1.jpeg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "ADIDAS ULTRABOOT 21",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 5000000,
+      "decribe": "Khái niệm \"tốt nhất\" không ngừng thay đổi. Khi chúng tôi cho ra mắt đôi giày adidas Ultraboost đầu tiên, đó là mẫu giày chạy bộ tốt nhất chúng tôi từng thiết kế. Với mỗi phiên bản cập nhật mới, chúng tôi lại tiếp tục nâng tầm cuộc chơi. "
+    },
+    {
+      "id":"pr7",
+      "gender": "male",
+      "classify":"nike",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/nike/af11/1.jpg",
+          "img2": "../../../imgs/brand/nike/af11/2.jpg",
+          "img3": "../../../imgs/brand/nike/af11/3.jpg",
+          "img4": "../../../imgs/brand/nike/af11/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/nike/af111/5.jpg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "NIKE AF 1/1",
+      "gender": "male",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 5000000,
+      "decribe": "Khái niệm \"tốt nhất\" không ngừng thay đổi. Khi chúng tôi cho ra mắt đôi giày adidas Ultraboost đầu tiên, đó là mẫu giày chạy bộ tốt nhất chúng tôi từng thiết kế. Với mỗi phiên bản cập nhật mới, chúng tôi lại tiếp tục nâng tầm cuộc chơi. "
+    },
+    {
+      "id":"pr8",
+      "gender": "male",
+      "classify":"nike",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/nike/air-ford-1/1.jpg",
+          "img2": "../../../imgs/brand/nike/air-ford-1/2.jpg",
+          "img3": "../../../imgs/brand/nike/air-ford-1/3.jpg",
+          "img4": "../../../imgs/brand/nike/air-ford-1/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/adidas/stansmith/green/1.jpeg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "NIKE AIR FORD 1",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 5000000,
+      "decribe": "Khái niệm \"tốt nhất\" không ngừng thay đổi. Khi chúng tôi cho ra mắt đôi giày adidas Ultraboost đầu tiên, đó là mẫu giày chạy bộ tốt nhất chúng tôi từng thiết kế. Với mỗi phiên bản cập nhật mới, chúng tôi lại tiếp tục nâng tầm cuộc chơi."
+    },
+    {
+      "id":"pr9",
+      "gender": "male",
+      "classify":"nike",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/nike/air-max-90/1.jpg",
+          "img2": "../../../imgs/brand/nike/air-max-90/2.jpg",
+          "img3": "../../../imgs/brand/nike/air-max-90/3.jpg",
+          "img4": "../../../imgs/brand/nike/air-max-90/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/nike/air1-max-90/5.jpg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "NIKE AIR MAX 90",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 5000000,
+      "decribe": "Khái niệm \"tốt nhất\" không ngừng thay đổi. Khi chúng tôi cho ra mắt đôi giày adidas Ultraboost đầu tiên, đó là mẫu giày chạy bộ tốt nhất chúng tôi từng thiết kế. Với mỗi phiên bản cập nhật mới, chúng tôi lại tiếp tục nâng tầm cuộc chơi. "
+    },
+    {
+      "id":"pr10",
+      "gender": "male",
+      "classify":"nike",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/nike/Kyrie 7 EP/1.jpg",
+          "img2": "../../../imgs/brand/nike/Kyrie 7 EP/2.jpg",
+          "img3": "../../../imgs/brand/nike/Kyrie 7 EP/3.jpg",
+          "img4": "../../../imgs/brand/nike/Kyrie 7 EP/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/nike/Kyrie 17 EP/5.jpg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "NIKE KYRIE 7 EP",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 5000000,
+      "decribe": "Khái niệm \"tốt nhất\" không ngừng thay đổi. Khi chúng tôi cho ra mắt đôi giày adidas Ultraboost đầu tiên, đó là mẫu giày chạy bộ tốt nhất chúng tôi từng thiết kế. Với mỗi phiên bản cập nhật mới, chúng tôi lại tiếp tục nâng tầm cuộc chơi. "
+    },
+    {
+      "id":"pr11",
+      "classify":"nike",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/nike/Nike Waffle/1.jpg",
+          "img2": "../../../imgs/brand/nike/Nike Waffle/2.jpg",
+          "img3": "../../../imgs/brand/nike/Nike Waffle/3.jpg",
+          "img4": "../../../imgs/brand/nike/Nike Waffle/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/nike/Nike 1Waffle/5.jpg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "NIKE WAFFLE",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 5000000,
+      "decribe": "Khái niệm \"tốt nhất\" không ngừng thay đổi. Khi chúng tôi cho ra mắt đôi giày adidas Ultraboost đầu tiên, đó là mẫu giày chạy bộ tốt nhất chúng tôi từng thiết kế. Với mỗi phiên bản cập nhật mới, chúng tôi lại tiếp tục nâng tầm cuộc chơi. ."
+    },
+    {
+      "id":"pr12",
+      "gender": "male",
+      "classify":"adidas",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/adidas/Utraboost21/1.jpg",
+          "img2": "../../../imgs/brand/adidas/Utraboost21/2.jpg",
+          "img3": "../../../imgs/brand/adidas/Utraboost21/3.jpg",
+          "img4": "../../../imgs/brand/adidas/Utraboost21/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/adidas/stansmith/green/1.jpeg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "ADIDAS UTRABOOT 22",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 5000000,
+      "decribe": "Khái niệm \"tốt nhất\" không ngừng thay đổi. Khi chúng tôi cho ra mắt đôi giày adidas Ultraboost đầu tiên, đó là mẫu giày chạy bộ tốt nhất chúng tôi từng thiết kế. Với mỗi phiên bản cập nhật mới, chúng tôi lại tiếp tục nâng tầm cuộc chơi. Giờ đây bạn sẽ được trải nghiệm độ êm ái đến không ngờ cùng năng lượng hoàn trả bạn hằng ao ước."
+    },
+    {
+      "id":"pr13",
+      "gender": "female",
+      "classify":2,
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/mlb/bbchunky/la/1.jpeg",
+          "img2": "../../../imgs/brand/mlb/bbchunky/la/2.jpeg",
+          "img3": "../../../imgs/brand/mlb/bbchunky/la/1.jpeg",
+          "img4": "../../../imgs/brand/mlb/bbchunky/la/2.jpeg"
+        },
+        "color2": {
+          "img1": "../../../imgs/adidas/stansmith/green/1.jpeg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "MLB BBCHUNKY LA",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 3200000,
+      "decribe": "Bạn đã chán tập gym và muốn thử chạy bộ? Đôi giày adidas này là lựa chọn hoàn hảo cho những người mới bắt đầu và muốn có được bệ phóng phù hợp. Thân giày bằng vải dệt siêu thoáng khí. Đế ngoài bằng cao su siêu bám trên các bề mặt ẩm ướt. Kết cấu siêu nhẹ giúp đôi chân bạn dễ dàng chuyển động."
+    },
+    {
+      "id":"pr14",
+      "gender": "female",
+      "classify": "mlb",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/mlb/bbchunky/ny/1.jpeg",
+          "img2": "../../../imgs/brand/mlb/bbchunky/ny/2.jpeg",
+          "img3": "../../../imgs/brand/mlb/bbchunky/ny/1.jpeg",
+          "img4": "../../../imgs/brand/mlb/bbchunky/ny/2.jpeg"
+        },
+        "color2": {
+          "img1": "../../../imgs/adidas/stansmith/green/1.jpeg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "MLB BBCHUNKY NY",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 2900000,
+      "decribe": "Hàng loạt bản mẫu. Hàng loạt cải tiến. Hàng loạt thử nghiệm. Đồng hành cùng chúng tôi trên hành trình tìm kiếm sự hòa hợp đỉnh cao giữa trọng lượng, sự êm ái và độ đàn hồi. Ultraboost 21. Đón chào nguồn năng lượng hoàn trả phi thường"
+    },
+    {
+      "id":"pr15",
+      "gender": "female",
+      "classify":"mlb",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/mlb/high/gray/1.jpeg",
+          "img2": "../../../imgs/brand/mlb/high/gray/2.jpeg",
+          "img3": "../../../imgs/brand/mlb/high/gray/1.jpeg",
+          "img4": "../../../imgs/brand/mlb/high/gray/2.jpeg"
+        },
+        "color2": {
+          "img1": "../../../imgs/adidas/stansmith/green/1.jpeg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "MLB HIGH GRAY",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 1500000,
+      "decribe": "Khái niệm \"tốt nhất\" không ngừng thay đổi. Khi chúng tôi cho ra mắt đôi giày adidas Ultraboost đầu tiên, đó là mẫu giày chạy bộ tốt nhất chúng tôi từng thiết kế. Với mỗi phiên bản cập nhật mới, chúng tôi lại tiếp tục nâng tầm cuộc chơi. "
+    },
+    {
+      "id":"pr16",
+      "gender": "female",
+      "classify":"mlb",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/mlb/high/violet/1.jpeg",
+          "img2": "../../../imgs/brand/mlb/high/violet/2.jpeg",
+          "img3": "../../../imgs/brand/mlb/high/violet/1.jpeg",
+          "img4": "../../../imgs/brand/mlb/high/violet/2.jpeg"
+        },
+        "color2": {
+          "img1": "../../../imgs/adidas/stansmith/green/1.jpeg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "MLB HIGH VIOLET",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 2800000,
+      "decribe": "Hàng loạt bản mẫu. Hàng loạt cải tiến. Hàng loạt thử nghiệm. Đồng hành cùng chúng tôi trên hành trình tìm kiếm sự hòa hợp đỉnh cao giữa trọng lượng, sự êm ái và độ đàn hồi. Ultraboost 21. Đón chào nguồn năng lượng hoàn trả phi thường"
+    },
+    {
+      "id":"pr17",
+      "gender": "female",
+      "classify":"mlb",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/mlb/jogger/black/1.jpeg",
+          "img2": "../../../imgs/brand/mlb/jogger/black/2.jpeg",
+          "img3": "../../../imgs/brand/mlb/jogger/black/1.jpeg",
+          "img4": "../../../imgs/brand/mlb/jogger/black/2.jpeg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/mlb/jogger/black/1.jpeg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "MLB JOGGER BLACK",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 3200000,
+      "decribe": "Khi bạn mang đôi giày chạy bộ adidas X9000L4 high-tech này, phố xá bỗng biến thành game đấu esport ưa thích của bạn. Thân giày bằng vải dệt kim ôm vừa khít, thích ứng theo chuyển động tự nhiên của bàn chân cùng với lớp đệm Boost đàn hồi tiếp thêm năng lượng cho từng sải bước. Ẩn trong vẻ ngoài táo bạo, đậm chất digital là tinh thần vì môi trường."
+    },
+    {
+      "id":"pr18",
+      "gender": "female",
+      "classify":"converse",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/converse/cheuck taylor co cao/1.jpg",
+          "img2": "../../../imgs/brand/converse/cheuck taylor co cao/2.jpg",
+          "img3": "../../../imgs/brand/converse/cheuck taylor co cao/3.jpg",
+          "img4": "../../../imgs/brand/converse/cheuck taylor co cao/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/converse/cheuck taylor co cao/1.jpg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "CONVERSE CHEUCK TAYLOR",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 500000,
+      "decribe": "Khái niệm \"tốt nhất\" không ngừng thay đổi. Khi chúng tôi cho ra mắt đôi giày adidas Ultraboost đầu tiên, đó là mẫu giày chạy bộ tốt nhất chúng tôi từng thiết kế."
+    },
+    {
+      "id":"pr19",
+      "gender": "female",
+      "classify":"converse",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/converse/Chuck 70 Archive Paint/1.jpg",
+          "img2": "../../../imgs/brand/converse/Chuck 70 Archive Paint/2.jpg",
+          "img3": "../../../imgs/brand/converse/Chuck 70 Archive Paint/3.jpg",
+          "img4": "../../../imgs/brand/converse/Chuck 70 Archive Paint/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/converse/Chuck 70 Archive Paint/1.jpg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "CONVERSE CHUCK 70 ",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 3200000,
+      "decribe": "Khái niệm \"tốt nhất\" không ngừng thay đổi. Khi chúng tôi cho ra mắt đôi giày adidas Ultraboost đầu tiên, đó là mẫu giày chạy bộ tốt nhất chúng tôi từng thiết kế. "
+    },
+    {
+      "id":"pr20",
+      "gender": "female",
+      "classify":"converse",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/converse/Chuck 70 My Story/1.jpg",
+          "img2": "../../../imgs/brand/converse/Chuck 70 My Story/1.jpg",
+          "img3": "../../../imgs/brand/converse/Chuck 70 My Story/1.jpg",
+          "img4": "../../../imgs/brand/converse/Chuck 70 My Story/1.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/converse/Chuck 70 My Story/1.jpg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "CONVERSE CHUCK 70 MY STORY",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 5000000,
+      "decribe": "Khi bạn mang đôi giày chạy bộ adidas X9000L4 high-tech này, phố xá bỗng biến thành game đấu esport ưa thích của bạn. Thân giày bằng vải dệt kim ôm vừa khít, thích ứng theo chuyển động tự nhiên của bàn chân cùng với lớp đệm Boost đàn hồi tiếp thêm năng lượng cho từng sải bước. Ẩn trong vẻ ngoài táo bạo, đậm chất digital là tinh thần vì môi trường.\n\nSản phẩm này may bằng vải công nghệ Primeblue, chất liệu tái chế hiệu năng cao có sử dụng sợi Parley Ocean Plastic."
+    },
+    {
+      "id":"pr21",
+      "gender": "female",
+      "classify": "adidas",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/adidas/ub21-nu/1.jpg",
+          "img2": "../../../imgs/brand/adidas/ub21-nu/2.jpg",
+          "img3": "../../../imgs/brand/adidas/ub21-nu/3.jpg",
+          "img4": "../../../imgs/brand/adidas/ub21-nu/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/adidas/ub21-nu/5.jpg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "MLB BBCHUNKY NY",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 2900000,
+      "decribe": "Hàng loạt bản mẫu. Hàng loạt cải tiến. Hàng loạt thử nghiệm. Đồng hành cùng chúng tôi trên hành trình tìm kiếm sự hòa hợp đỉnh cao giữa trọng lượng, sự êm ái và độ đàn hồi. Ultraboost 21. Đón chào nguồn năng lượng hoàn trả phi thường"
+    },
+    {
+      "id":"pr22",
+      "gender": "female",
+      "classify": "adidas",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/adidas/ub21-nu2/1.jpg",
+          "img2": "../../../imgs/brand/adidas/ub21-nu2/2.jpg",
+          "img3": "../../../imgs/brand/adidas/ub21-nu2/3.jpg",
+          "img4": "../../../imgs/brand/adidas/ub21-nu2/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/adidas/ub21-nu2/5.jpg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "MLB BBCHUNKY NY",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 2900000,
+      "decribe": "Hàng loạt bản mẫu. Hàng loạt cải tiến. Hàng loạt thử nghiệm. Đồng hành cùng chúng tôi trên hành trình tìm kiếm sự hòa hợp đỉnh cao giữa trọng lượng, sự êm ái và độ đàn hồi. Ultraboost 21. Đón chào nguồn năng lượng hoàn trả phi thường"
+    },
+    {
+      "id":"pr23",
+      "gender": "female",
+      "classify": "adidas",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/adidas/ub21-orange/1.jpg",
+          "img2": "../../../imgs/brand/adidas/ub21-orange/2.jpg",
+          "img3": "../../../imgs/brand/adidas/ub21-orange/3.jpg",
+          "img4": "../../../imgs/brand/adidas/ub21-orange/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/adidas/ub21-orange/5.jpg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "MLB BBCHUNKY NY",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 2900000,
+      "decribe": "Hàng loạt bản mẫu. Hàng loạt cải tiến. Hàng loạt thử nghiệm. Đồng hành cùng chúng tôi trên hành trình tìm kiếm sự hòa hợp đỉnh cao giữa trọng lượng, sự êm ái và độ đàn hồi. Ultraboost 21. Đón chào nguồn năng lượng hoàn trả phi thường"
+    },
+    {
+      "id":"pr24",
+      "gender": "female",
+      "classify": "adidas",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/adidas/zx_1000/1.jpg",
+          "img2": "../../../imgs/brand/adidas/zx_1000/2.jpg",
+          "img3": "../../../imgs/brand/adidas/zx_1000/3.jpg",
+          "img4": "../../../imgs/brand/adidas/zx_1000/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/adidas/zx_1000/5.jpg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "MLB BBCHUNKY NY",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 2900000,
+      "decribe": "Hàng loạt bản mẫu. Hàng loạt cải tiến. Hàng loạt thử nghiệm. Đồng hành cùng chúng tôi trên hành trình tìm kiếm sự hòa hợp đỉnh cao giữa trọng lượng, sự êm ái và độ đàn hồi. Ultraboost 21. Đón chào nguồn năng lượng hoàn trả phi thường"
+    },
+    {
+      "id":"pr25",
+      "gender": "male",
+      "classify": "adidas",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/adidas/stansmith green/1.jpg",
+          "img2": "../../../imgs/brand/adidas/stansmith green/2.jpg",
+          "img3": "../../../imgs/brand/adidas/stansmith green/3.jpg",
+          "img4": "../../../imgs/brand/adidas/stansmith green/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/adidas/stansmith green/5.jpg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "MLB BBCHUNKY NY",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 2900000,
+      "decribe": "Hàng loạt bản mẫu. Hàng loạt cải tiến. Hàng loạt thử nghiệm. Đồng hành cùng chúng tôi trên hành trình tìm kiếm sự hòa hợp đỉnh cao giữa trọng lượng, sự êm ái và độ đàn hồi. Ultraboost 21. Đón chào nguồn năng lượng hoàn trả phi thường"
+    },
+    {
+      "id":"pr26",
+      "gender": "female",
+      "classify": "adidas",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/adidas/continental 80/1.jpg",
+          "img2": "../../../imgs/brand/adidas/continental 80/2.jpg",
+          "img3": "../../../imgs/brand/adidas/continental 80/3.jpg",
+          "img4": "../../../imgs/brand/adidas/continental 80/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/adidas/continental 80/5.jpg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "MLB BBCHUNKY NY",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 2900000,
+      "decribe": "Hàng loạt bản mẫu. Hàng loạt cải tiến. Hàng loạt thử nghiệm. Đồng hành cùng chúng tôi trên hành trình tìm kiếm sự hòa hợp đỉnh cao giữa trọng lượng, sự êm ái và độ đàn hồi. Ultraboost 21. Đón chào nguồn năng lượng hoàn trả phi thường"
+    },
+    {
+      "id":"pr27",
+      "gender": "male",
+      "classify": "vans",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/vans/old skool classic/1.png",
+          "img2": "../../../imgs/brand/vans/old skool classic/2.png",
+          "img3": "../../../imgs/brand/vans/old skool classic/3.png",
+          "img4": "../../../imgs/brand/vans/old skool classic/4.png"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/vans/old skool classic/5.png",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "VANS OLD SKOOL CLASSIC",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 2900000,
+      "decribe": "Hàng loạt bản mẫu. Hàng loạt cải tiến. Hàng loạt thử nghiệm. Đồng hành cùng chúng tôi trên hành trình tìm kiếm sự hòa hợp đỉnh cao giữa trọng lượng, sự êm ái và độ đàn hồi. Ultraboost 21. Đón chào nguồn năng lượng hoàn trả phi thường"
+    },
+    {
+      "id":"pr28",
+      "gender": "male",
+      "classify": "vans",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/vans/os checkkerboard/1.jpg",
+          "img2": "../../../imgs/brand/vans/os checkkerboard/2.jpg",
+          "img3": "../../../imgs/brand/vans/os checkkerboard/3.jpg",
+          "img4": "../../../imgs/brand/vans/os checkkerboard/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/vans/os checkkerboard/5.jpg",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "VANS OLD SKOOL CHECKKERBOARD",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 2900000,
+      "decribe": "Hàng loạt bản mẫu. Hàng loạt cải tiến. Hàng loạt thử nghiệm. Đồng hành cùng chúng tôi trên hành trình tìm kiếm sự hòa hợp đỉnh cao giữa trọng lượng, sự êm ái và độ đàn hồi. Ultraboost 21. Đón chào nguồn năng lượng hoàn trả phi thường"
+    },
+    {
+      "id":"pr29",
+      "gender": "female",
+      "classify": "vans",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/vans/os style36/1.jpg",
+          "img2": "../../../imgs/brand/vans/os style36/2.jpg",
+          "img3": "../../../imgs/brand/vans/os style36/3.jpg",
+          "img4": "../../../imgs/brand/vans/os style36/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/vans/os style36/5.jp g",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "VANS OLD SKOOL STYLE 36",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 2900000,
+      "decribe": "Hàng loạt bản mẫu. Hàng loạt cải tiến. Hàng loạt thử nghiệm. Đồng hành cùng chúng tôi trên hành trình tìm kiếm sự hòa hợp đỉnh cao giữa trọng lượng, sự êm ái và độ đàn hồi. Ultraboost 21. Đón chào nguồn năng lượng hoàn trả phi thường"
+    },
+    {
+      "id":"pr29",
+      "gender": "female",
+      "classify": "vans",
+      "img": {
+        "color1": {
+          "img1": "../../../imgs/brand/vans/os x national geographic/1.jpg",
+          "img2": "../../../imgs/brand/vans/os x national geographic/2.jpg",
+          "img3": "../../../imgs/brand/vans/os x national geographic/3.jpg",
+          "img4": "../../../imgs/brand/vans/os x national geographic/4.jpg"
+        },
+        "color2": {
+          "img1": "../../../imgs/brand/vans/os x national geographic/5.jp g",
+          "img2": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img3": "../../imgs/adidas/stansmith/green/1.jpeg",
+          "img4": "../../imgs/adidas/stansmith/green/1.jpeg"
+        }
+      },
+      "title": "VANS OLD SKOOL X NATIONAL",
+      "color": ["Black", "Green"],
+      "size": [38, 39, 40 , 41, 42],
+      "price": 2900000,
+      "decribe": "Hàng loạt bản mẫu. Hàng loạt cải tiến. Hàng loạt thử nghiệm. Đồng hành cùng chúng tôi trên hành trình tìm kiếm sự hòa hợp đỉnh cao giữa trọng lượng, sự êm ái và độ đàn hồi. Ultraboost 21. Đón chào nguồn năng lượng hoàn trả phi thường"
+    }
+  ]
+}

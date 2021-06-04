@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>H2Store</title>
+    <link rel="stylesheet" href="../css/bootstrap.css" />
+    <link rel="stylesheet" href="../css/global.css" />
+    <link rel="stylesheet" href="../css/home.css" />
+    <script src="../../../js/jquery-3.6.0.min.js"></script>
+    <script src="../../../js/bootstrap.bundle.js"></script>
+    <script src="../js/index.js"></script>
+  </head>
+  <body>
+    <div class="container-fluid w-100 main-screen d-flex flex-column">
+      <nav class="navbar navbar-expand-lg">
+        <button class="navbar-toggler w-100 p-0" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo01" aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+          <div class="d-flex justify-content-between align-items-center">
+            <span class="navbar-toggler-icon">
+              <div class="nav-menu">
+                <div></div>
+                <div></div>
+                <div></div>
+              </div>
+            </span>
+            <h1 class="m-0" style="height: 40px;">H2S</h1>
+            <a href="#" class="nav-link">
+              <img src="../font-awesome/shopping-cart-solid.svg" width="25" height="25">
+            </a>
+          </div>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+          <div class="header_region">
+            <span>Khu vực:</span>
+            <span>Việt Nam</span>
+          </div>
+          <form class="form-inline my-2 my-lg-0 ml-5 ml-auto d-flex justify-content-between">
+            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn my-2 my-sm-0" type="submit">
+              <img src="../font-awesome/search-solid.svg" width="20" height="20">
+            </button>
+          </form>
+          <ul class="navbar-nav mt-2 mt-lg-0">
+            <li class="nav-item active">
+              <a class="nav-link" href="./login/login.html">Đăng nhập</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="./register/registe.html">Đăng Ký</a>
+            </li>
+            <li class="nav-item">
+              <a href="../html/product/product-cart/product-cart.html" class="nav-link">
+                <img src="../font-awesome/shopping-cart-solid.svg" width="25" height="25">
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <nav class="container-fluid p-0 pt-3 flex-grow-1 position-relative">
+        <div class="menu row text-center position-absolute pt-2">
+          <div class="col-2 text-left"><a href="" class="text-reset text-decoration-none font-weight-bold h3">H2S</a></div>
+          <div class="col pt-2"><a href="../html/product/list-product/list-product.html" class="text-reset text-decoration-none">SẢN PHẨM</a></div>
+          <div class="col pt-2 active"><a href="../html/product/collection/collection.html" class="text-reset text-decoration-none">BỘ SƯU TẬP</a></div>
+          <div class="col pt-2"><a href="../html/product/products-male/product-male.html" class="text-reset text-decoration-none">NAM</a></div>
+          <div class="col pt-2"><a href="../html/product/products-female/product-female.html" class="text-reset text-decoration-none">NỮ</a></div>
+          <div class="col-4 pt-2"></div>
+        </div>
+        <div class="img-bia pt-5 h-100 d-flex">
+          <img src="../imgs/home.png" alt="" class="position-absolute w-50">
+          <div class="w-50 mt-5 pt-5">
+            <p class="h4 pt-5">Giày Thể Thao Nữ</p>
+            <p class="font-weight-bold h1">CALVIN KLEIN JEANS</p>
+            <p>Giảm giá 50% đến 30/05</p>
+            <a href="./product/product-details/product-details.html?id=pr24">
+              <button class="btn btn-dark rounded-0">MUA</button>
+            </a>
+          </div>
+        </div>
+      </nav>
+    </div>
+      <!-- slide product -->
+      <div class="slideProducts mt-5">
+        <h1>SẢN PHẨM THỊNH HÀNH</h1>
+        <div class="list-products d-flex mt-4"></div>
+      </div>
+      <div class="cover-img d-flex text-center">
+          <div class="cover-img-left">
+            <h1>CONTINENTAL 80</h1>
+            <div class="button-img">
+                
+                <a href="./product/product-details/product-details.html?id=pr26">
+                  <button class="btn-infomation">XEM THÔNG TIN</button>
+                  <button class="btn-byenow ml-4">MUA NGAY</button>
+                </a>
+            </div>
+          </div>
+          <div class="cover-img-right">
+            <img src="../imgs/12312-removebg-preview.png" alt="">
+          </div>
+      </div>
+      <div class="new-feed">
+          <h1>TIN TỨC</h1>
+          <div class="new-feed-list d-flex"> 
+              <div class="new-feed-left mr-3 w-50">
+                <a href="./product/product-details/product-details.html?id=pr5">
+                  <img src="../imgs/14.PNG" alt=""  class="w-100">
+                  <h3 class="mt-4">Chạy bô với Giày SUPERNOVA+</h3>
+                  <p>Ai cũng có nghi thức của riêng mình. Chúng ta chỉ cần nạp thêm năng lượng. Tin tưởng bước chạy. Hiệu quả mọi lúc.</p>
+                  <button>MUA NGAY</button>
+                </a>
+              </div>
+              <div class="new-feed-right ml-3 w-50">
+                <a href="./product/product-details/product-details.html?id=pr25">
+                  <img src="../imgs/17.PNG" alt=""  class="w-100">
+                  <h3   class="mt-4">STAN SMITH, MÃI MÃI</h3>
+                  <p>Thân giày vải công nghệ PRIMEGREEN mới.</p>
+                  <br>
+                  <button>MUA NGAY</button>
+                </a>
+              </div>
+          </div>
+      </div>
+      <div class="cover-img2">
+        <a href="./product/product-details/product-details.html?id=pr7">
+          <button>XEM NGAY</button>
+        </a>
+      </div>
+      <div class="infomation-img text-center">
+        <h1>ĐĂNG KÝ NHẬN THÔNG TIN TỪ H2S</h1>
+        <input type="text" placeholder="E-MAIL..." class="mt-2">
+        <button>XÁC NHẬN</button>
+      </div>
+<footer class="text-center text-lg-start bg-light text-muted">
+  <section class="d-flex justify-content-center justify-content-lg-between p-4 border-bottom">
+    <div class="me-5 d-none d-lg-block">
+    </div>
+    <div>
+      <a href="" class="me-4 text-reset ml-3">
+        <img src="../font-awesome/instagram.svg" alt="" width="30">
+      </a>
+      <a href="" class="me-4 text-reset ml-3">
+        <img src="../font-awesome/facebook.svg" alt="" width="30">
+      </a>
+      <a href="" class="me-4 text-reset ml-3">
+        <img src="../font-awesome/twitter.svg" alt="" width="30">
+      </a>
+      <a href="" class="me-4 text-reset ml-3">
+        <img src="../font-awesome/youtube.svg" alt="" width="30">
+      </a>
+    </div>
+  </section>
+  <section class="w-100">
+    <div class="text-center text-md-start mt-5 w-75 m-auto">
+      <div class="row mt-3">
+        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
+          <h6 class="text-uppercase fw-bold mb-4">
+            <i class="fas fa-gem me-3"></i>H2S
+          </h6>
+          <p >
+            <i>
+              "Với 10 ngày kinh nghiệm,
+             Chúng tôi hiểu những nhu cầu của khách hàng đối với 1 đôi giày đúng nghĩa dành cho người trưởng thành"
+            </i>
+          </p>
+        </div>
+        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+          <h6 class="text-uppercase fw-bold mb-4">
+            Sản Phẩm
+          </h6>
+          <p>
+            <a href="#!" class="text-reset">Giày</a>
+          </p>
+          <p>
+            <a href="#!" class="text-reset">Bộ sưu tập</a>
+          </p>
+          <p>
+            <a href="../html/product/products-male/product-male.html" class="text-reset">Nam</a>
+          </p>
+          <p>
+            <a href="../html/product/products-female/product-female.html" class="text-reset">Nữ</a>
+          </p>
+        </div>
+        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+          <h6 class="text-uppercase fw-bold mb-4">
+            Liên Hệ
+          </h6>
+          <p>
+            <img src="../font-awesome/envelope-fill.svg"  alt="">
+            h2store@gmail.com
+          </p>
+          <p><img src="../font-awesome/telephone-fill.svg" alt=""> + 094 222 2289</p>
+          <p><img src="../font-awesome/telephone-fill.svg" alt=""> + 094 222 1865</p>
+        </div>
+        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+          <h6 class="text-uppercase fw-bold mb-4">
+            Địa chỉ
+          </h6>
+          <p>
+            <a href="#!" class="text-reset">
+              <img src="../font-awesome/house-fill.svg" alt="">
+              297 Nguyễn Văn trỗi - Quận Phú Nhuận - TPHCM
+            </a>
+          </p>
+          <p>
+            <a href="#!" class="text-reset">
+              <img src="../font-awesome/house-fill.svg" alt="">
+              64-65 Võ Thị Sáu - Quận 3 - TPHCM
+            </a>
+          </p>
+          <p>
+            <a href="#!" class="text-reset">
+              <img src="../font-awesome/house-fill.svg" alt="">
+              654 Lũy Bán Bích - Quận Tân Binh - TPHCM
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
+    © 2021 Copyright:
+    <a class="text-reset fw-bold" href="https://mdbootstrap.com/">H2store.com</a>
+  </div>
+</footer>
+  </body>
+</html>

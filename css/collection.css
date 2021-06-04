@@ -1,0 +1,191 @@
+.main-screen {
+    background-color: var(--white);
+    padding: 0 10%;
+    height: 20vh;
+  }
+  
+  .main-screen nav:first-of-type {
+    padding: 20px 0;
+    border-bottom: 1px solid gray;
+  }
+  
+  .main-screen nav button span div.nav-menu {
+      width: 1.5rem;
+      height: 1.5rem;
+  }
+  
+  .main-screen nav button span div.nav-menu div {
+      width: 1.5rem;
+      height: 0.3rem;
+      margin: 0.2rem 0;
+      background-color: black;
+  }
+  
+  .main-screen nav #navbarTogglerDemo01 .header_region span:first-of-type {
+    font-weight: 300;
+  }
+  
+  .main-screen nav #navbarTogglerDemo01 form {
+    border: 1px solid gray;
+    margin-right: 5%;
+  }
+  
+  .main-screen nav #navbarTogglerDemo01 form input {
+    border: none;
+    border-radius: 0;
+    font-weight: 300;
+    background-color: var(--white);
+    box-shadow: none;
+  }
+  
+  .main-screen nav #navbarTogglerDemo01 form button {
+    border: none;
+    border-radius: none;
+    background-color: var(--white);
+    box-shadow: none;
+  }
+  
+  .main-screen nav #navbarTogglerDemo01 form button:hover img {
+      opacity: 0.5;
+  }
+  
+  .main-screen nav #navbarTogglerDemo01 ul li a {
+      color: black;
+  }
+  
+  .main-screen nav #navbarTogglerDemo01 ul li a:hover {
+      color: gray;
+  }
+  
+  .main-screen nav:last-of-type div div.col {
+    pointer-events: none;
+  }
+  
+  .main-screen nav:last-of-type div div a {
+    pointer-events: auto;
+  }
+  
+  .main-screen nav:last-of-type div div.col:hover {
+    background-color: var(--pink);
+  }
+  
+  .main-screen nav:last-of-type > div.row {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+  }
+  
+  .main-screen nav:last-of-type div:last-of-type div {
+    z-index: 10;
+  }
+  
+  .main-screen nav:last-of-type div:last-of-type img {
+    bottom: 0;
+    right: 0;
+  }
+  
+  .main-screen nav:last-of-type div:last-of-type > div p.h1 {
+    font-family: 'Roboto';
+    font-size: 40pt;
+  }
+  
+  .main-screen nav:last-of-type div:last-of-type > div a button {
+    width: 200px;
+    height: 50px;
+  }
+  
+  .nav-menu{
+    height: 10vh !important;
+  }
+  .section{
+      width: 100%;
+  }
+
+  .section-left a button{
+    width: 150px;
+    height: 50px;
+    background-color: var(--white);
+    border: 1px solid var(--black);
+  }
+  .section-left a button:hover{
+    background-color: var(--black);
+    color: var(--white);
+  }
+  .section-right a button:hover{
+    background-color: var(--black);
+    color: var(--white);
+  }
+  .section-right a button{
+    width: 150px;
+    height: 50px;
+    background-color: var(--white);
+    border: 1px solid var(--black);
+  }
+  .section-top a button{
+      width: 200px;
+      height: 50px;
+      background-color: var(--black);
+      opacity:1;
+      color: var(--white);
+      border: 1px solid var(--white);
+  }
+  .section-top a button:hover{
+      opacity: 0.8;
+  }
+  @media screen and (max-width: 1240px){
+    .section-top img{
+      width: 100% ;
+    }
+    .section-bottom img{
+      width: 480px;
+      height: 400px;
+    }
+    footer{
+      margin-top: 700px !important;
+      height: 82vh !important;
+    }
+  }
+  @media screen and (max-width: 480px) {
+    .menu a{
+      font-size: 0.6rem;
+    }
+    .section{
+      margin-top: 20px;
+    }
+    .section-top img{
+      width: 100%;
+    }
+    .section-top h1{
+      font-size: 1.2rem !important;
+    } 
+    .section-top p{
+      font-size: 0.8rem;
+    }
+    .section-left img{
+      width: 180px;
+      height: auto;
+    }
+    .section-left h1{
+      font-size: 1rem;
+    }
+    .section-right img{
+      width: 180px;
+      height: 115px;
+    }
+    .section-right h1{
+      font-size: 1rem;
+    }
+    .section-left button{
+      width: 150px !important;
+      height: 40px !important;
+    }
+    .section-right button{
+      width: 150px !important;
+      height: 40px !important;
+    }
+    footer{
+      margin-top: 180px !important;
+      height: auto !important;
+    }
+  }
